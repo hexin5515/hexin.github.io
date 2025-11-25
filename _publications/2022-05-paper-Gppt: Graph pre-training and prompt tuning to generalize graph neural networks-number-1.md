@@ -2,7 +2,7 @@
 title: "Gppt: Graph pre-training and prompt tuning to generalize graph neural networks"
 collection: publications
 category: conferences
-permalink: /publication/2022-5-8-paper-Gppt:Graph pre-training and prompt tuning to generalize graph neural networks-number-1
+permalink: /publication/2022-5-8-paper-Gppt:Graph pre-training and prompt tuning to generalize graph neural networks
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-05-08
 venue: 'Journal 1'
