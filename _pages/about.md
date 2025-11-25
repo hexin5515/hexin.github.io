@@ -12,7 +12,6 @@ I am a Ph.D in the School of Artificial Intelligence Jilin University, supervise
 News
 ======
 <ol>
-  <li>Ren, F., ... 2025.</li>
-  <li>Ren, F., ... 2024.</li>
-  <li>Ren, F., ... 2023.</li>
+  <li>2022-5: One paper accepted by KDD Research Track 2022</li>
+  <li>2022-5: One paper accepted by KDD Research Track 2022</li>
 </ol>
