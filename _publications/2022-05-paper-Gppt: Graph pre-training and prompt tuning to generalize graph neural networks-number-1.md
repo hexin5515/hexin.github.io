@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Gppt: Graph pre-training and prompt tuning to generalize graph neural networks"
 collection: publications
-category: manuscripts
-permalink: /publications/2022-5-8-paper-Gppt:Graph pre-training and prompt tuning to generalize graph neural networks-number-1
+category: conferences
+permalink: /publication/2022-5-8-paper-Gppt:Graph pre-training and prompt tuning to generalize graph neural networks-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-05-08
 venue: 'Journal 1'
