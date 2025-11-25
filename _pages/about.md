@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D in the School of Artificial Intelligence Jilin University, supervised by Professor Xin Wang. My current research focuses on recommender systems and graph neural networks.
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Ph.D in the School of Artificial Intelligence Jilin University, supervised by Professor [Xin Wang](https://xinwangjlu.github.io/). My current research focuses on fairness in recommender systems and robustness in graph neural networks. I aim to develop trustworthy recommendation algorithms and graph neural network architectures that remain reliable, fair, and stable when deployed in real-world, large-scale applications.
 
 A data-driven personal website
 ======
