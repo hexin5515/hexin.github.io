@@ -7,4 +7,5 @@ date: 2024-01-01
 venue: 'Arxiv'
 paperurl: 'https://hexin5515.github.io/files/Arxiv_AusRec.pdf'
 bibtexurl: 'https://hexin5515.github.io/files/Arxiv_AusRec.bib'
+classes: publications-page
 ---
