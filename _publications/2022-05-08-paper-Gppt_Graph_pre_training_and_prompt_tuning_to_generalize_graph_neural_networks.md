@@ -4,5 +4,5 @@ authors: "Mingchen Sun, Kaixiong Zhou, **Xin He**, Ying Wang, Xin Wang"
 collection: publications
 category: conferences
 date: 2022-05-08
-venue: 'Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)'
+venue: 'the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)'
 ---
