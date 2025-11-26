@@ -13,8 +13,8 @@ News
 ======
 <ol>
   <li>2025-11: One paper accepted by KDD Research Track 2026</li>
-  <li>2025-11: One papers accepted by AAAI 2026 (Oral)</li>
-  <li>2025-04: One papers accepted by IJCAI 2025</li>
+  <li>2025-11: One paper accepted by AAAI 2026 (Oral)</li>
+  <li>2025-04: One paper accepted by IJCAI 2025</li>
   <li>2025-02: One paper accepted by Neural Networks (Journal)</li>
   <li>2022-05: One paper accepted by KDD Research Track 2022</li>
 </ol>
