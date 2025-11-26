@@ -41,3 +41,16 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/*
+ * 只针对 Publications 页面，调整题目和说明之间的距离
+ */
+
+.publications-page .archive__item-title {
+  margin-bottom: 0;   /* 题目下面不要空隙，越小越紧 */
+  line-height: 1.1;
+}
+
+.publications-page .archive__item-title + p {
+  margin-top: 0;      /* 紧跟在标题下面那行（Published in / authors）也贴上去 */
+}
